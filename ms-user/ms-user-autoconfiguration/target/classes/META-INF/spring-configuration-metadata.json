@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "ms-user",
+      "type": "ms.user.configuration.MsUserConnectionConfiguration",
+      "sourceType": "ms.user.configuration.MsUserConnectionConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ms-user.url",
+      "type": "java.lang.String",
+      "sourceType": "ms.user.configuration.MsUserConnectionConfiguration"
+    }
+  ],
+  "hints": []
+}

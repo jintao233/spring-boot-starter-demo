@@ -1,0 +1,9 @@
+server:
+  port: 18080
+ms-user:
+  url: 127.0.0.1:8080
+
+# 开启feign的熔断
+feign:
+  circuitbreaker:
+    enabled: true
